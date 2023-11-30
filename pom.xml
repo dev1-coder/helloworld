@@ -54,10 +54,11 @@
     </build>
 
     <modules>
-        <module>
-            <groupId>org.apache.pox.helloworld</groupId>
-            <artifactId>hello-world-module</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </module>
-    </modules>
+      <module>
+        <groupId>org.apache.pox.helloworld</groupId>
+        <artifactId>hello-world-module</artifactId>
+        <version>1.0-SNAPSHOT</version>
+     </module>
+   </modules>
+
 </project>
